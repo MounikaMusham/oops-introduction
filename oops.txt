@@ -1,0 +1,26 @@
+OOPs (Object-Oriented Programming System)
+Object means a real-world entity such as a pen, chair, table, computer, watch, etc.
+ Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects.
+  It simplifies software development and maintenance by providing some concepts:
+
+Inheritance
+Polymorphism
+Abstraction
+Encapsulation
+
+Inheritance:
+
+When one object acquires all the properties and behaviors of a parent object,
+ it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.
+
+Polymorphism:
+
+If one task is performed in different ways, it is known as polymorphism.
+
+Abstraction:
+
+Hiding internal details and showing functionality is known as abstraction.
+
+Encapsulation:
+Binding (or wrapping) code and data together into a single unit are known as encapsulation.
+ For example, a capsule, it is wrapped with different medicines.
